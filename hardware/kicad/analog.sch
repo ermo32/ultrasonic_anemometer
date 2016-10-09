@@ -44,24 +44,4 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Sheet
-S 2400 1200 1350 1950
-U 57FA5DAC
-F0 "Power supply" 60
-F1 "power_supply.sch" 60
-F2 "p5v" O R 3750 1450 60 
-F3 "p3v3" O R 3750 1600 60 
-$EndSheet
-$Sheet
-S 4200 1200 1250 1950
-U 57FA5DCE
-F0 "Analog" 60
-F1 "analog.sch" 60
-$EndSheet
-$Sheet
-S 5900 1200 1250 1950
-U 57FA5DF6
-F0 "Digital" 60
-F1 "digital.sch" 60
-$EndSheet
 $EndSCHEMATC
