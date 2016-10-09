@@ -29,12 +29,13 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:microchip_dspic33dsc
+LIBS:modex
 LIBS:ultrasonic_anemometer-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 4
+Sheet 3 4
 Title ""
 Date ""
 Rev ""
@@ -44,4 +45,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text HLabel 2350 1750 0    60   Input ~ 0
+p5v
 $EndSCHEMATC

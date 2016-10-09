@@ -50,4 +50,26 @@ Text HLabel 4250 2000 2    60   Output ~ 0
 p3v3
 Text HLabel 4250 2150 2    60   Output ~ 0
 n5v
+$Comp
+L C C?
+U 1 1 57FA730B
+P 5400 2400
+F 0 "C?" H 5425 2500 50  0000 L CNN
+F 1 "C" H 5425 2300 50  0000 L CNN
+F 2 "" H 5438 2250 50  0000 C CNN
+F 3 "" H 5400 2400 50  0000 C CNN
+	1    5400 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C?
+U 1 1 57FA73F2
+P 5750 2400
+F 0 "C?" H 5775 2500 50  0000 L CNN
+F 1 "C" H 5775 2300 50  0000 L CNN
+F 2 "" H 5788 2250 50  0000 C CNN
+F 3 "" H 5750 2400 50  0000 C CNN
+	1    5750 2400
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
