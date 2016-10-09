@@ -1,0 +1,3 @@
+git add . #Add files
+git commit
+git push origin master
