@@ -1,0 +1,10 @@
+Title: * Z:\home\erik\Documents\git_projects\ultrasonic_anemometer\hardware\ltspice\ultrasonic_amplifier.asc
+Date: Sun Oct 16 10:49:18 2016
+Plotname: Transient Analysis
+Flags: real forward
+No. Variables: 18
+No. Points:            0
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice IV
+Backannotation: u1 1 2 3 4 5
+Variables:

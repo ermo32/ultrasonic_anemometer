@@ -1,0 +1,67 @@
+Circuit: * Z:\home\erik\Documents\git_projects\ultrasonic_anemometer\hardware\ltspice\ultrasonic_amplifier.asc
+
+Instance "m:u1:14": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:12": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Gmin = 10000
+Gmin = 1073.74
+Gmin = 115.292
+Gmin = 12.3794
+Gmin = 1.32923
+Gmin = 0.142725
+vernier = 0.5
+vernier = 0.25
+Gmin = 0.0843227
+vernier = 0.333333
+vernier = 0.444444
+Gmin = 0.0342249
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 0.00843853
+vernier = 1
+Gmin = 0.00107562
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.000996776
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 0.000999618
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.0177557%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+vernier = 0.25
+Source stepping failed
+
+Pseudo Transient failed in finding the operating point.
+Trouble finding operating point....skipping operating point for Transient analysis.
+Changing Tseed to 2.44141e-010
+Changing Tseed to 2.44141e-012
+Changing Tseed to 2.44141e-009
+Changing Tseed to 2.44141e-013
+Changing Tseed to 2.44141e-008
+Changing Tseed to 2.44141e-014
+Changing Tseed to 2.44141e-007
+Changing Tseed to 2.44141e-015
+Changing Tseed to 2.44141e-006
+Changing Tseed to 2.44141e-016
+Changing Tseed to 2.44141e-005
+Changing Tseed to 2.44141e-017
+Fatal Error: Analysis:  Time step too small; initial timepoint: trouble with node "u1:21"
+
