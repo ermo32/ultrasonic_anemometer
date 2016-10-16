@@ -60,4 +60,9 @@ K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
 #
+$CMP MCP6294
+D Quad Op amp.
+K AmpliOp
+$ENDCMP
+#
 #End Doc Library

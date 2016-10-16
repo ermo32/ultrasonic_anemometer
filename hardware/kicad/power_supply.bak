@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:microchip_dspic33dsc
+LIBS:modex
 LIBS:ultrasonic_anemometer-cache
 EELAYER 25 0
 EELAYER END
@@ -70,6 +71,17 @@ F 1 "C" H 5775 2300 50  0000 L CNN
 F 2 "" H 5788 2250 50  0000 C CNN
 F 3 "" H 5750 2400 50  0000 C CNN
 	1    5750 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L LM1117-3.3 U?
+U 1 1 57FA7558
+P 4900 3150
+F 0 "U?" H 5000 2900 50  0000 C CNN
+F 1 "LM1117-3.3" H 4900 3400 50  0000 C CNN
+F 2 "" H 4900 3150 50  0000 C CNN
+F 3 "" H 4900 3150 50  0000 C CNN
+	1    4900 3150
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

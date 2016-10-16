@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:microchip_dspic33dsc
+LIBS:modex
 LIBS:ultrasonic_anemometer-cache
 EELAYER 25 0
 EELAYER END
