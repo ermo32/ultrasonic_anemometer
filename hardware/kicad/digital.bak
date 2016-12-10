@@ -58,4 +58,6 @@ F 3 "" H 5550 3900 50  0000 C CNN
 	1    6250 4300
 	1    0    0    -1  
 $EndComp
+Text Notes 1950 1700 0    60   ~ 0
+33EP512GP504-IPT
 $EndSCHEMATC

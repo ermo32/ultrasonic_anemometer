@@ -1,4 +1,4 @@
-update=Sun 09 Oct 2016 06:31:28 PM CEST
+update=Sat 10 Dec 2016 11:57:18 AM CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=/home/erik/kicad/libraries/kicad-library/library;lib
@@ -58,5 +60,3 @@ LibName28=contrib
 LibName29=valves
 LibName30=lib/microchip_dspic33dsc
 LibName31=lib/modex
-[general]
-version=1

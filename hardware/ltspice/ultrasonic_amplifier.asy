@@ -1,0 +1,13 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -32 -32 63 60
+WINDOW 0 11 -54 Bottom 2
+PIN 16 -32 TOP 8
+PINATTR PinName VCC
+PINATTR SpiceOrder 1
+PIN -32 16 LEFT 8
+PINATTR PinName Vin
+PINATTR SpiceOrder 2
+PIN 64 16 RIGHT 8
+PINATTR PinName Vout
+PINATTR SpiceOrder 3

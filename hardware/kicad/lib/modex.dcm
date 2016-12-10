@@ -6,6 +6,13 @@ K POWER REGUL
 F regulator\lm78lxx.pdf
 $ENDCMP
 #
+$CMP DSPIC33EP512GP504
+D 16-Bit Microcontrollers and Digital Signal Controllers 
+with High-Speed PWM, Op Amps and Advanced Analog
+K 16-bit Digital Signal Controller Microchip dsPIC
+F http://ww1.microchip.com/downloads/en/DeviceDoc/70000657H.pdf
+$ENDCMP
+#
 $CMP IRM-05-5
 D Linear Regulator +5V
 K POWER REGUL

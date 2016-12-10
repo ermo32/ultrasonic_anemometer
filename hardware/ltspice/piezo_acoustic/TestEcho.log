@@ -1,0 +1,24 @@
+Circuit: * Z:\home\erik\Documents\git_projects\ultrasonic_anemometer\hardware\ltspice\piezo_acoustic\TestEcho.asc
+
+x3:tload: using linear interpolation because trytocompact option specified
+x1:tpzt: using linear interpolation because trytocompact option specified
+.OP point found by inspection.
+
+Date: Sun Nov 06 17:57:34 2016
+Total elapsed time: 45.503 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 200206
+traniter = 200206
+tranpoints = 100060
+accept = 100049
+rejected = 11
+matrix size = 19
+fillins = 9
+solver = Normal
+Matrix Compiler1: 1.09 KB object code size  1.0/1.0/[0.6]
+Matrix Compiler2: 1.45 KB object code size  0.6/0.8/[0.6]
+
+
