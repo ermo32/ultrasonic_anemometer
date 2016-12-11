@@ -71,4 +71,9 @@ D Quad Op amp.
 K AmpliOp
 $ENDCMP
 #
+$CMP MCP6492
+D Dual Op amp. 7.5 MHz, low-power
+K AmpliOp
+$ENDCMP
+#
 #End Doc Library
