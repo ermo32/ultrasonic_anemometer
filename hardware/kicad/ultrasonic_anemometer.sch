@@ -59,6 +59,7 @@ U 57FA5DCE
 F0 "Analog" 60
 F1 "analog.sch" 60
 F2 "p5v" I L 4200 4000 60 
+F3 "ADC" O R 5450 4150 60 
 $EndSheet
 $Sheet
 S 6800 3600 1250 1950
@@ -66,6 +67,7 @@ U 57FA5DF6
 F0 "Digital" 60
 F1 "digital.sch" 60
 F2 "p3v3" I L 6800 4000 60 
+F3 "ADC" I L 6800 4150 60 
 $EndSheet
 Wire Wire Line
 	3750 1600 6400 1600
@@ -79,4 +81,6 @@ Wire Wire Line
 	4050 1700 4050 4000
 Wire Wire Line
 	4050 4000 4200 4000
+Wire Wire Line
+	5450 4150 6800 4150
 $EndSCHEMATC
